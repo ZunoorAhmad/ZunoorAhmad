@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunoorAhmad&layout=compact&theme=vision-friendly-dark)](https://github.com/zunoorahmad/github-readme-stats)
 
 ### :woman_technologist: About Me :
-I am a Front-End Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
