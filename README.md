@@ -1,73 +1,84 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/zunoor-ahmad-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<img src="https://komarev.com/ghpvc/?username=BasitShafiq&style=flat-square&color=blue" alt=""/>
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunoorAhmad&layout=compact&theme=vision-friendly-dark)](https://github.com/zunoorahmad/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Zunoor%20Ahmad&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Full-Stack%20Developer&descSize=18&descAlignY=58" alt="Zunoor Ahmad banner" width="100%"/>
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+<a href="https://github.com/ZunoorAhmad">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Building+scalable+web+applications;Next.js+%7C+NestJS+%7C+Node.js+%7C+PostgreSQL;Exploring+AI+%26+LLM+integration+with+Python" alt="Typing intro"/>
+</a>
 
+<br/>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and HackerRank and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zunoor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zunoor-ahmad-dev)
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
----
-
-### :fire: My Stats :
-<!--
-**ZunoorAhmad/ZunoorAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://www.linkedin.com/in/zunoor-ahmad-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ZunoorAhmad">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<!-- Optional: uncomment and add your email
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 -->
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a **Full-Stack Developer based in Lahore, Pakistan**, focused on building scalable web applications, backend services and REST APIs, and on adding practical AI features to real products.
+
+- 🔭 Currently working as a Full-Stack Developer at **[@DevBlends](https://github.com/DevBlends)**, building with **Next.js, NestJS, Node.js and PostgreSQL**
+- 🤖 Exploring **AI & LLM integration**: RAG pipelines and document assistants using **Python and Ollama**
+- 🧩 Strong in clean architecture, API design and end-to-end feature delivery
+- ⚡ Outside work, I solve algorithmic problems and refine side projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,angular,vue" alt="Frontend skills"/>
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mysql,firebase" alt="Backend skills"/>
+</p>
+
+**AI & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,pandas,numpy" alt="AI skills"/>
+</p>
+
+**Tools & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,gcp" alt="Tools"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/ZunoorAhmad?style=for-the-badge&logo=github&color=2563eb" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/ZunoorAhmad?style=for-the-badge&logo=github&color=2563eb" alt="Stars"/>
+  <br/><br/>
+  <img src="https://ghchart.rshah.org/2563eb/ZunoorAhmad" alt="Contribution graph" width="90%"/>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm open to collaborations and interesting full-stack or AI projects. Reach out on [LinkedIn](https://www.linkedin.com/in/zunoor-ahmad-dev/).
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="footer"/>
+</div>
