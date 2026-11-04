@@ -64,17 +64,6 @@ I'm a **Full-Stack Developer based in Lahore, Pakistan**, focused on building sc
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/ZunoorAhmad?style=for-the-badge&logo=github&color=2563eb" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ZunoorAhmad?style=for-the-badge&logo=github&color=2563eb" alt="Stars"/>
-  <br/><br/>
-  <img src="https://ghchart.rshah.org/2563eb/ZunoorAhmad" alt="Contribution graph" width="90%"/>
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm open to collaborations and interesting full-stack or AI projects. Reach out on [LinkedIn](https://www.linkedin.com/in/zunoor-ahmad-dev/).
